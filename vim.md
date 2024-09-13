@@ -1,10 +1,8 @@
-* "Esc" : normal mode
-* "Esc" then u: undo the latest changes
-* ":" : indicate that you are about to write a command
-* ":q!" : quit without saving changes
-* ":wq" : save and quit a file 
-
-
+- "Esc" : normal mode
+- "Esc" then u: undo the latest changes
+- ":" : indicate that you are about to write a command
+- ":q!" : quit without saving changes
+- ":wq" : save and quit a file
 
 # Deletion commands
 
@@ -14,7 +12,7 @@
 
 Typing a number before a motion repeats it that many times:
 
-"2w": moves the cursor 2 words forward 
+"2w": moves the cursor 2 words forward
 "3e": moves the cursor to the end of the third word
 "0": move to the start of the line
 
